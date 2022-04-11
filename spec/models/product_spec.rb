@@ -58,6 +58,7 @@ RSpec.describe Product, type: :model do
       @product.validate 
       expect(@product.errors[:category]).to_not include("can't be blank") # check for absence of error
     end
+
     
   end
   
