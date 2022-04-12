@@ -106,7 +106,7 @@ RSpec.describe User, type: :model do
     it "returns user if email is cased incorrectly " do
       user = User.create!(
         name: "Noah",
-        email: "noah.lauffer@test.com",
+        email: "noah.lauFFer@teSt.COm",
         password: "password",
         password_confirmation: "password"
         )
