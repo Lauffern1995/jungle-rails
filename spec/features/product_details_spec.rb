@@ -24,9 +24,7 @@ RSpec.feature "ProductDetails", type: :feature, js: true do
     
     # VERIFY
     expect(page).to have_css '.products-show' 
-    save_screenshot
-   
-    
+    save_screenshot    
   end
 
 end
