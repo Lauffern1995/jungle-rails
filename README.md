@@ -4,16 +4,14 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ##
 
-***Choose the Weekday you wish to schedule your interview***
+
 !['SHOW_HOME'](https://github.com/Lauffern1995/jungle-rails/blob/master/docs/Show_Home.gif?raw=true)
 
-***Create your appointment***
 !["ADD TO CART"](https://github.com/Lauffern1995/jungle-rails/blob/master/docs/Add_to_cart.gif?raw=true)
 
-***Edit your appointment***
 !["PAY"](https://github.com/Lauffern1995/jungle-rails/blob/master/docs/Pay.gif?raw=true)
 
-***Delete your appointment***
+
 !["COMPLETE_PAY"](https://github.com/Lauffern1995/jungle-rails/blob/master/docs/Complete_payment.gif?raw=true)
 
 ## Setup
